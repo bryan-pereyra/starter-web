@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Bryan bryan@unosquare.com @bryan
 
 # THANKS
 
